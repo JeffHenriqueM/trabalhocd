@@ -1,13 +1,13 @@
-package com.example.trabalhocd;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TrabalhocdApplication {
+public class TrabalhocomputacaodistribuidaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TrabalhocdApplication.class, args);
+		SpringApplication.run(TrabalhocomputacaodistribuidaApplication.class, args);
 	}
 
 }
