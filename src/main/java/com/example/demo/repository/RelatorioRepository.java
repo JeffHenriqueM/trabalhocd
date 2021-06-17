@@ -1,10 +1,12 @@
 package com.example.demo.repository;
 
+import java.util.Optional;
+
 import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
 
 import com.example.demo.model.Relatorio;
 
 public interface RelatorioRepository extends JpaRepository<Relatorio, Long>{ 
-
-
+	
 }

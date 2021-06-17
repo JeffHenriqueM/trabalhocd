@@ -21,5 +21,4 @@ public class Relatorio {
 	public String anotacao;
 	public int id_atendimento;
 	
-
 }
