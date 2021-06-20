@@ -35,3 +35,7 @@ Testando a instalação do maven
 Para testar se a configuração do maven funcionou, abra o prompt de comando do seu computador e digite mvn.
 Caso sua saída exiba como título “BUILD FAILURE” e apresente alguns erros, significa que você não configurou a variável de ambiente PATH com o caminho válido para a pasta bin do maven.
 Neste caso, volte para o início deste Quarto passo - Configurando as variáveis de ambiente e certifique-se que o caminho da pasta bin do maven esteja na variável de ambiente PATH. Após essa correção, feche e abra novamente o prompt de comando.
+
+O Docker pull para pegar A imagem pelo docker é
+Docker pull ashzera/trabalho
+
